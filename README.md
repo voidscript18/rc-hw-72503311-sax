@@ -7,7 +7,7 @@
 ## 进度
 
 - [x] T01 环境验收
-- [ ] T02 Linux 命令行
+- [x] T02 Linux 命令行
 - [ ] T03 Python 速通
 - [ ] T04 Git 与提交
 - [ ] T05 OpenCV 基础
