@@ -1,0 +1,22 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 程序输出 / 训练产物
+out/
+runs/
+outputs/
+
+# 数据集与权重（大文件走网盘，不塞仓库）
+dataset/
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# 临时文件
+*.log
+mcu_log.json
+.DS_Store
+Thumbs.db
