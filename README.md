@@ -9,7 +9,7 @@
 - [x] T01 环境验收
 - [x] T02 Linux 命令行
 - [x] T03 Python 速通
-- [ ] T04 Git 与提交
+- [x] T04 Git 与提交
 - [ ] T05 OpenCV 基础
 - [ ] T06 传统视觉
 - [ ] T07 实时追踪
